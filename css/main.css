@@ -1,5 +1,5 @@
 body {
-    background-color: lightgreen;
+    background-color: green;
 }
 
 button {
@@ -41,7 +41,7 @@ img {
 }
 
 .tiny-space {
- margin-top: 30px; 
+ margin-top: 30px;
 }
 
 .space {
